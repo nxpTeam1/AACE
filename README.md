@@ -17,6 +17,12 @@ Convert SystemVerilog RTL into architecture diagrams using a multi-agent LLM pip
 
 ---
 
+## Demo
+
+https://github.com/user-attachments/assets/cdb90749-ab00-404f-b5f6-e29fec4c6d15
+
+
+
 ## Setup
 
 Create and activate a virtual environment:
