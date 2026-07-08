@@ -1,4 +1,4 @@
-# Agentic Converter
+# AACE — Agentic Abstraction for Chip Engineering
 
 Convert SystemVerilog RTL into architecture diagrams using a multi-agent LLM pipeline:
 
